@@ -1,11 +1,11 @@
 {
-    "name": "speedwork/framework",
+    "name": "myspeedwork/framework",
     "type": "library",
-    "description": "Speedwork Virtual Package",
+    "description": "Speedwork Virtual Package plus enhancements by us",
     "license": "MIT",
     "authors": [{
-        "name": "sankar",
-        "email": "sankar.suda@gmail.com"
+        "name": "Shiva",
+        "email": "shivaramanp@gmail.com"
     }],
     "require": {
         "php": ">=5.6",
